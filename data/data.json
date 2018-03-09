@@ -1,0 +1,16 @@
+{
+	"rasa_nlu_data":{
+		"common_examples":[
+		{
+			"text":"こんにちは",
+			"intent":"greet",
+			"entities":[]
+		},
+		{
+			"text":"さよなら",
+			"intent":"goodbye",
+			"entities":[]
+		}
+		]
+	}
+}
